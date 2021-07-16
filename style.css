@@ -61,7 +61,7 @@ h2 {
   font-weight: 400;
 }
 p,
-span {
+li span {
   font-family: "Lexend Deca", sans-serif;
   font-weight: 400;
 }
@@ -70,7 +70,7 @@ p {
   line-height: 1.5rem;
   margin-bottom: 30px;
 }
-span {
+li span {
   color: var(--white-stat-heading);
 }
 h1 span {
